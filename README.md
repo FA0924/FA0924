@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" src="[https://media.tenor.com/7rp7aAKf52cAAAAi/ai-grok.gif]" width="200" alt="Coding GIF"/>
+<img align="right" src="https://media.tenor.com/7rp7aAKf52cAAAAi/ai-grok.gif" width="200" alt="Coding GIF"/>
 
 I am a Fullstack Developer and a UX/UI Desginer skilled in WordPress, PHP, Figma and more. <br/>
 I have worked on projects that built scalable & seamless applications, and continuously strive to improve my skills and contribute to impactful teams.
