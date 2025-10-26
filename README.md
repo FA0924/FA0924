@@ -36,13 +36,13 @@ I have worked on projects that built scalable & seamless applications, and conti
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark" alt="Top Languages"/>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&layout=compact&theme=dark](https://github-readme-stats.vercel.app/api/top-langs/?username=FA0924e&layout=compact)" alt="Top Languages"/>
 </div>
 
 ## 🎯 LeetCode Heatmap
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/yousefmohameddergham?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/fa0924?theme=catppuccinMocha&font=Varta&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 
 
