@@ -2,7 +2,7 @@
 
 # ✨ Fatima Alshanfari
 
-**Full-stack Developer · UX/UI Designer · Coffee & Music Lover**
+**Full-stack Developer · UX/UI Designer **
 
 [![LinkedIn](https://img.shields.io/badge/-Connect_with_me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatima-alshanfari-b8b854293/)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://www.linkedin.com/in/fatima-alshanfari-b8b854293/)
