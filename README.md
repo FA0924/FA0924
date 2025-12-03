@@ -56,15 +56,20 @@ I specialize in crafting seamless digital experiences — from designing intuiti
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=FA0924&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FA0924&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF" height="165" alt="Top Languages"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FA0924&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FA0924&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</picture>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FA0924&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FA0924&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</picture>
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FA0924&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" alt="GitHub Streak"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=FA0924&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF">
+  <img src="https://streak-stats.demolab.com?user=FA0924&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</picture>
 
 </div>
 
